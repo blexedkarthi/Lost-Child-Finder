@@ -1,0 +1,6 @@
+{
+  "name": "Lost Child Finder",
+  "description": "A real-time dashboard and tracking system that monitors smart CCTV camera feeds, matches lost children, transmits instant alerts, and locates them using Google Maps.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
